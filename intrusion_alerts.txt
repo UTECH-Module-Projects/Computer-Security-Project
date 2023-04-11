@@ -1,0 +1,113 @@
+[2023-04-10 18:57:25] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:57:26] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:30] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:57:36] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:36] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:39] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:57:39] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:57:39] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:57:46] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:46] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:51] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:57:51] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:57:53] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:02] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:02] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:06] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:08] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:08] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:10] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:10] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:10] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:11] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:13] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:14] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:14] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:58:14] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:58:14] Intrusion detected! SYN scan on port 80 from 192.168.100.71
+[2023-04-10 18:58:19] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:19] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:20] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:20] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:31] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:31] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:31] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:32] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:49] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:49] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:51] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:58:51] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:58:57] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:03] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:06] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:06] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:59:09] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:23] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:23] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 18:59:30] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:51] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 18:59:51] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:04] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 19:00:05] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 19:00:23] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:23] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:24] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:42] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:42] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:42] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:00:50] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 19:00:51] Intrusion detected! SYN scan on port 443 from 192.168.100.71
+[2023-04-10 19:00:51] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:01:06] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71
+[2023-04-10 19:01:06] Intrusion detected! Suspicious payload on port 443 from 192.168.100.71[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=31.209.137.10}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=172.217.15.206}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:18] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:18] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.120.34}
+[2023-04-10 23:22:19] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.120.34}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=1.1.1.1}
+[2023-04-10 23:22:19] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=3.64.141.91}
+[2023-04-10 23:22:20] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=3.64.141.91}
+[2023-04-10 23:22:20] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:20] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=31.209.137.10}
+[2023-04-10 23:22:23] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=31.209.137.10}
+[2023-04-10 23:22:25] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.24.203}
+[2023-04-10 23:22:25] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.24.203}
+[2023-04-10 23:22:33] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:33] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:33] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.40.206}
+[2023-04-10 23:22:34] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=172.217.165.133}
+[2023-04-10 23:22:36] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.120.34}
+[2023-04-10 23:22:36] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.120.34}
+[2023-04-10 23:22:36] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:36] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.121.34}
+[2023-04-10 23:22:43] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.35.170}
+[2023-04-10 23:22:46] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:22:50] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.250.65.202}
+[2023-04-10 23:22:54] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:22:54] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:22:54] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:23:04] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.35.170}
+[2023-04-10 23:23:13] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.35.170}
+[2023-04-10 23:23:25] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.24.203}
+[2023-04-10 23:23:25] Intrusion detected! Suspicious payload. details: {port=443, srcIP=192.168.100.71, dstIP=104.18.24.203}
+[2023-04-10 23:23:27] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.35.170}
+[2023-04-10 23:23:28] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=172.217.165.133}
+[2023-04-10 23:23:29] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:23:29] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:23:29] Intrusion detected! SYN scan. details: {port=80, srcIP=192.168.100.71, dstIP=13.107.4.52}
+[2023-04-10 23:23:31] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=146.112.41.2}
+[2023-04-10 23:23:49] Intrusion detected! SYN scan. details: {port=443, srcIP=192.168.100.71, dstIP=142.251.35.170}
